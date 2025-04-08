@@ -11,7 +11,8 @@ helpful_links = [
 ]
 
 # Write directly to the app
-st.title("Customize Your Smoothie! :dog:")
+streamlit.title("Customize Your Smoothie! :dog:")
+# st.title("Customize Your Smoothie! :dog:")
 st.write("Choose the fruits you want in your custom Smoothie!")
 
 
